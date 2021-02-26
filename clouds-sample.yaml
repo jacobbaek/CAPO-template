@@ -1,0 +1,10 @@
+clouds:
+  jacob-openstack:
+    auth:
+      auth_url: http://openstack-cloud.jacobbaek.com:5000/v3
+      project_name: admin
+      username: admin
+      password: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      user_domain_name: Default
+      project_domain_name: Default
+    region_name: RegionOne
